@@ -1,0 +1,3 @@
+in userController.js - remove password validation before commit
+or change the passward in SafeBuddy
+or deside that they dont have to be the same
